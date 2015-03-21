@@ -1,6 +1,7 @@
 package io.realm.internal;
 
-import android.util.JsonReader;
+
+import android.support.v11.util.JsonReader;
 
 import java.io.IOException;
 

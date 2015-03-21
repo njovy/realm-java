@@ -23,7 +23,7 @@ import android.os.Build;
 import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
-import android.util.JsonReader;
+import android.support.v11.util.JsonReader;
 import android.util.Log;
 
 import org.json.JSONArray;

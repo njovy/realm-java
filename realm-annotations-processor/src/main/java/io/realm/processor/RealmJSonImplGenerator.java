@@ -49,7 +49,7 @@ public class RealmJSonImplGenerator {
         writer.emitEmptyLine();
 
         writer.emitImports(
-                "android.util.JsonReader",
+                "android.support.v11.util.JsonReader",
                 "io.realm.exceptions.RealmException",
                 "io.realm.internal.RealmJson",
                 "java.io.IOException",
